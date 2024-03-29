@@ -1,0 +1,4 @@
+DB_NAME="diabetes"
+DB_USER="leo"
+DB_PASSWORD="leo"
+ACCESS_TOKEN="diabetes"
